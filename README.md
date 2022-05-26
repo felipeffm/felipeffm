@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently focused on **update this GitHub until August 22.**
 
-- 👯 I’m looking to collaborate on **social data science projects. If you have something in mind send me a message.**
+- 👯 I’m looking to collaborate on **data science for social good projects. If you have something in mind send me a message.**
 
 - 📫 How to reach me **felipefm@id.uff.br**
 
