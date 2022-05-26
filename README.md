@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Miranda</h1>
 <h3 align="center">Someone who really enjoy coding and solve problems</h3>
 
-- 🔭 I’m currently working on **this completely outdated GitHub.**
+- 🔭 I’m currently working on **this outdated GitHub.**
 
 - 👯 I’m looking to collaborate on **social data science projects. If you have something in mind send me a message.**
 
