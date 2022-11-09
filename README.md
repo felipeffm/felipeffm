@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Miranda</h1>
 <h3 align="center">Someone who really enjoy coding and solve problems</h3>
 
-- 🔭 I’m currently focused on **update this GitHub until August 22.**
+- 🔭 I’m currently focused on **update this GitHub until August 23.**
 
 - 👯 I’m looking to collaborate on **data science for social good projects. If you have something in mind send me a message.**
 
