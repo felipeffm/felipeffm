@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **data science for social good projects. If you have something in mind send me a message.**
 
-- 📫 How to reach me **felipefm@id.uff.br**
+- 📫 How to reach me **felipemdatafm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
