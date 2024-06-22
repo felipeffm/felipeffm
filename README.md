@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Miranda</h1>
-<h3 align="center">Someone who really enjoy coding and solve problems</h3>
+<h3 align="center">Someone who really enjoy coding and solving problems</h3>
 
 
 - 👯 I’m looking to collaborate on **data science for social good projects. If you have something in mind send me a message.**
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https:/www.linkedin.com/in/felipe--miranda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe--miranda/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipe--miranda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe--miranda/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12637374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12637374" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
