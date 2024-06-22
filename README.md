@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felipe Miranda</h1>
 <h3 align="center">Someone who really enjoy coding and solve problems</h3>
 
- ** This profile is outdated.**
 
 - 👯 I’m looking to collaborate on **data science for social good projects. If you have something in mind send me a message.**
 
-- 📫 How to reach me **felipemdatafm@gmail.com**
+- 📫 How to reach me **felipem.datafm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
